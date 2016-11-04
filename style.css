@@ -1,0 +1,19 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black
+  color: white;
+  
+  
+}
+
+p {
+  font-family: "Times New Roman", sans-serif;
+  margin: 40px;
+  color: white;
+}
+
+h1 {
+  font-family: "Comic Sans", serif;
+  text-align: center;
+  
+}
